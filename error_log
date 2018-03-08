@@ -1,0 +1,49 @@
+[07-Mar-2018 10:26:55 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:27:01 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:27:10 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:27:33 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:27:35 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:27:39 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:27:47 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:27:53 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:27:57 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to Ai1ec_Exception_Handler::handle_exception() must be an instance of Exception, instance of ParseError given in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php:191
+Stack trace:
+#0 [internal function]: Ai1ec_Exception_Handler->handle_exception(Object(ParseError))
+#1 {main}
+  thrown in /home/at7iktkhk/public_html/khk/wp-content/plugins/all-in-one-event-calendar/lib/exception/handler.php on line 191
+[07-Mar-2018 10:30:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/at7iktkhk/public_html/khk/wp-content/themes/vantage/functions.php on line 637
+[07-Mar-2018 10:30:22 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/at7iktkhk/public_html/khk/wp-content/themes/vantage/functions.php on line 637
+[07-Mar-2018 10:30:24 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/at7iktkhk/public_html/khk/wp-content/themes/vantage/functions.php on line 637
+[07-Mar-2018 10:30:25 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/at7iktkhk/public_html/khk/wp-content/themes/vantage/functions.php on line 637
